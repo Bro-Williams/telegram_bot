@@ -1,0 +1,16 @@
+APScheduler==3.6.3
+certifi==2020.12.5
+click==7.1.2
+joblib==1.0.1
+nltk==3.5
+numpy==1.20.1
+python-telegram-bot==13.4.1
+pytz==2021.1
+regex==2020.11.13
+scikit-learn==0.24.1
+scipy==1.6.1
+six==1.15.0
+threadpoolctl==2.1.0
+tornado==6.1
+tqdm==4.59.0
+tzlocal==2.1
